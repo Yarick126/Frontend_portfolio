@@ -1,2 +1,1 @@
-﻿# Frontend_portfolio
-
+Resolve
