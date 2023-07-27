@@ -1,0 +1,17 @@
+.book-me{
+  
+  display: flex;
+  flex-direction: column;
+  row-gap: 1em;
+  span[id="redText"]{
+    color: red;
+    align-self: self-end;
+  }
+  div[id="header-spans"]{
+    display: flex;
+    flex-direction: column;
+
+    row-gap: 0.5em;
+  }
+
+}
